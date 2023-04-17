@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg {
+  background-image: linear-gradient(#fff1eb, #ace0f9);
+  font-family: 'Bree Serif';
+  text-align: center;
+}
+.tab-list {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+}
+.top-portion {
+  width: 50%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+}
+
+.search-input-container {
+  display: flex;
+  width: 50%;
+  height: 40px;
+  margin: auto;
+  border: 2px solid #7b8794;
+  border-radius: 10px;
+  justify-content: space-between;
+  padding: 3px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.search-input {
+  height: 20px;
+  width: 250px;
+  outline: none;
+  border-style: solid;
+  border-width: 0px;
+  background-color: transparent;
+}
+.search-icon {
+  height: 30px;
+  width: 30px;
+}
+.apps-list {
+  display: flex;
+  flex-wrap: wrap;
+}

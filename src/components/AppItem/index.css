@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.apps-item {
+  text-decoration: none;
+  color: black;
+  font-family: 'Bree Serif';
+  margin: 10px;
+  background-color: aliceblue;
+  padding: 30px;
+  border-radius: 6px;
+}
+.app-img {
+  height: 80px;
+  width: 80px;
+}

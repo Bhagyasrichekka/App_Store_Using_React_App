@@ -1,0 +1,20 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+button {
+  border-style: none;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #7b8794;
+  text-decoration: underline;
+  font-size: 20px;
+}
+.btn {
+  color: #2563eb;
+}
